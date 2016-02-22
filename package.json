@@ -1,0 +1,18 @@
+{
+  "name": "athome",
+  "version": "1.0.0",
+  "description": "athome dumper",
+  "main": "test.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "he": "^0.5.0",
+    "q": "^1.4.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
